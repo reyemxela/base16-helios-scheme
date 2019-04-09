@@ -1,4 +1,4 @@
-scheme: "helios"
+scheme: "Helios"
 author: "Alex Meyer (https://github.com/reyemxela)"
 base00: "1d2021" # ----
 base01: "37393a" # ---
@@ -9,10 +9,11 @@ base05: "d5d5d5" # ++
 base06: "dddddd" # +++
 base07: "e5e5e5" # ++++
 base08: "d72638" # red
-base09: "f1881a" # orange
+base09: "eb8413" # orange
 base0A: "f19d1a" # yellow
 base0B: "88b92d" # green
 base0C: "1ba595" # aqua/cyan
 base0D: "1e8bac" # blue
 base0E: "be4264" # purple
 base0F: "c85e0d" # brown
+
