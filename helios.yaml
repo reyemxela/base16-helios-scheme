@@ -9,10 +9,10 @@ base05: "d5d5d5" # ++
 base06: "dddddd" # +++
 base07: "e5e5e5" # ++++
 base08: "d72638" # red
-base09: "f1991a" # orange
-base0A: "f8e636" # yellow
+base09: "f1881a" # orange
+base0A: "f19d1a" # yellow
 base0B: "88b92d" # green
 base0C: "1ba595" # aqua/cyan
 base0D: "1e8bac" # blue
 base0E: "be4264" # purple
-base0F: "d66f20" # brown
+base0F: "c85e0d" # brown
